@@ -123,4 +123,3 @@ Pattern programs help in:
 ---
 
 <img width="799" height="714" alt="image" src="https://github.com/user-attachments/assets/72109f98-b390-49cc-acab-055aece6524f" />
-
