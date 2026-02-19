@@ -1,5 +1,4 @@
 # 📘 README — Reverse Star Pattern Program (Python)
-
 ## 📌 Description
 
 This Python program prints a **reverse left-side triangle star pattern** using nested loops.
