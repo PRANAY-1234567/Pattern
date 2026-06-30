@@ -2,7 +2,6 @@
 ## 📌 Description
 
 This Python program prints a **reverse left-side triangle star pattern** using nested loops.
-
 The number of stars **decreases** in each line.
 
 ---
